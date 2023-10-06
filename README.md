@@ -1,6 +1,6 @@
-# ETHProofProj
+# errFunc
 
-This is a simple program that burns and mint NFTS.
+This is a simple program that checks numbers.
 
 ## Description
 
